@@ -5,3 +5,4 @@
 3. git add . : agrega archivos del working directory al stating area
 4. git commit -m : agrega archivos del stating  area al repositorio git
 5. git log : te lista todos los commits realizados
+6. git
